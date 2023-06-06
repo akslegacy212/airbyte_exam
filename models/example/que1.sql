@@ -1,0 +1,1 @@
+select count(*) as count, Survived from TITANIC__1__CSV group by Survived

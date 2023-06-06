@@ -1,0 +1,1 @@
+select * from TITANIC__1__CSV where Cabin is not null

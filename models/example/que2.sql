@@ -1,0 +1,1 @@
+select count(*) as count from TITANIC__1__CSV where SibSp = 0 and Survived = 1

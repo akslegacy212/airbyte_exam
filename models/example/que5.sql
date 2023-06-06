@@ -1,0 +1,1 @@
+select sex ,count(*) as count from TITANIC__1__CSV where Survived = 0 group by Sex
